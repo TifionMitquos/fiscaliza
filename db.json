@@ -4,14 +4,6 @@
 			"usuario": "admin",
 			"senha": "admin",
 			"id": "1"
-		},{
-			"usuario": "teste",
-			"senha": "123",
-			"id": "2"
-		},{
-			"usuario": "fiscal",
-			"senha": "123",
-			"id": "3"
 		}
 	],
 	"agenda": [
